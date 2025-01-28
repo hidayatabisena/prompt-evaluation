@@ -199,6 +199,9 @@ function App() {
             </TableBody>
           </Table>
         </div>
+        <div className="text-center text-sm text-gray-500 dark:text-gray-400">
+          Supported by <a href="https://maia.id" className="text-blue-600 dark:text-blue-400 hover:underline">MAIA</a>
+        </div>
       </div>
     </div>
   );
